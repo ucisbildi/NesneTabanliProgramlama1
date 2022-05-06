@@ -188,7 +188,7 @@ class Program {
 
     İlk başta gördüğünüz "Oyuncu" nesnenin tipidir.
 
-    Sonraki "oyuncu1" nesnenin adıdır.
+    Sonraki "oyuncu" nesnenin adıdır.
 
     "=" atama operatörüdür.
 
