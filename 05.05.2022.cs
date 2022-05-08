@@ -20,7 +20,7 @@ class Program {
   değişkenlerdir. Varsayılan değerleri **vardır**.
 
   İşlev(Function): Sınıf sınırları içinde tanımlamış 
-  her fonksiyon işlevdir.
+  her metot işlevdir.
 
   Özellik(Property): Sınıf içinde tanımlanmış erşim ve 
   değiştirme yetkisi işlevlerle kısıtlanabilen işlev benzeri   
