@@ -29,7 +29,7 @@ class Program {
     olmadığı ve tanımlandığı yerde atama 
     yapılması gereken yapılardır.
 
-    const [tip] [sabit_adi] = [sabit_degeri]
+    const [tip] [sabit_adi] = [sabit_degeri];
     şeklnde tanımlanır.
     */
 
